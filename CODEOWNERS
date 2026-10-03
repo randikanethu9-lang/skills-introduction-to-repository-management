@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @randikanethu9-lang
+/src/backend/database.py      @randikanethu9-lang
+/src/backend/routers/auth.py  @randikanethu9-lang
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @randikanethu9-lang
